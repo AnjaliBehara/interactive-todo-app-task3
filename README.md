@@ -33,7 +33,7 @@ https://anjalibehara.github.io/interactive-todo-app-task3/
 
 ## 🔗 GitHub Repository
 
-(Add your GitHub repository link here)
+https://github.com/AnjaliBehara/interactive-todo-app-task3.git
 
 ## 📌 Developed As Part Of
 
